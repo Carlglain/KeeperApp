@@ -1,0 +1,30 @@
+.crtnote{
+    margin: 5px auto 0px;
+    margin-top: 12rem;
+    border-radius: 10px;
+    max-width: 50%;
+    border: 1;
+    background-color: rgb(114, 236, 240);
+   text-align: center;
+   padding: 4%;
+}
+.input{
+    margin: 10px;
+    padding: 2px;
+    border-radius: 5px;
+    width: 50%;
+    max-width: 70%;
+}
+.crtnote button{
+    width: 5rem;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(6, 241, 2);
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(5, 5, 5);
+    margin-bottom: 1rem;
+    margin-top: 2px;
+}
